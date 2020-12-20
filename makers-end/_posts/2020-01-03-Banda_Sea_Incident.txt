@@ -1,3 +1,6 @@
+---
+title: "Banda Sea Incident"
+---
 FROM: Stacy Anders
 TO: Robert Rescher
 SUBJECT: Dolphin Vid
@@ -8,11 +11,3 @@ Another problem to add to our big steaming pile. Apparently a fisherman in the B
 
 Stacy Anders
 VP/PR FAS
-
-Horizon Zero Dawn Datapoints
-Categories:
-Text Datapoints - Quests
-Community content is available under CC-BY-SA unless otherwise noted.
-Recent Wiki Activity
-AETHER
-ZanarNaryon • 14 hours ago

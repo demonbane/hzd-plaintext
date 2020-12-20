@@ -1,3 +1,6 @@
+---
+title: "Spiritual Summit"
+---
 FROM: Ted Faro
 TO: Paula Vassara
 SUBJECT: Spiritual Summit

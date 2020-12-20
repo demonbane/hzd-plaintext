@@ -1,0 +1,12 @@
+---
+layout: default
+---
+<ul>
+  {% for category in site.categories %}
+    {% assign catname = category[0] %}
+    {% assign catindex = site.pages | where: "category-id", catname | first %}
+    <li>
+	    <a href="{{site.baseurl}}/{{catname}}" style="text-transform:capitalize;">{{catindex.category-name}}</a>
+    </li>
+  {% endfor %}
+</ul>

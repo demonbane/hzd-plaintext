@@ -1,3 +1,6 @@
+---
+title: "FAS Campus Security Log"
+---
 FAS Campus Security Log
 
 HIGH PRIORITY ALERT
